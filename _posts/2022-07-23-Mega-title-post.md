@@ -1,3 +1,9 @@
+---
+title: "Mega Title"
+date: 2022-07-23
+---
+
+
 How to Write a Blog Post in Five Easy Steps [Summary]:
 Step 1: Plan your blog post by choosing a topic, creating an outline, conducting research, and checking facts.
 Step 2: Craft a headline that is both informative and will capture readers’ attentions.
